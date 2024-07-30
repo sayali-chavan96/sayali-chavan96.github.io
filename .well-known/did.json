@@ -12,7 +12,7 @@
             "id": "did:web:sayali-chavan96.github.io#key-1",
             "type": "Ed25519VerificationKey2018",
             "controller": "did:web:sayali-chavan96.github.io",
-            "publicKeyBase58": "EP8Q1MDi2mTjTCaQcrvzt9WLSahAsWkhGmnXT6niNP9X"
+            "publicKeyBase58": "FxAJ9GA83nuwDH1ihCwWCG11vFEeob7z2aQARPTb3tH1"
         }
     ],
      "assertionMethod": [
