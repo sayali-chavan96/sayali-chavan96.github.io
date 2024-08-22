@@ -12,10 +12,10 @@
             "id": "did:web:sayali-chavan96.github.io#key-1",
             "type": "Ed25519VerificationKey2018",
             "controller": "did:web:sayali-chavan96.github.io",
-            "publicKeyBase58": "FxAJ9GA83nuwDH1ihCwWCG11vFEeob7z2aQARPTb3tH1"
+            "publicKeyBase58": "3YHRL1S4PfC5k6sHUvE9d1MiqPtJDEQSwd6H5tjKzZ6Z"
         }
     ],
-     "assertionMethod": [
+    "assertionMethod": [
         "did:web:sayali-chavan96.github.io#key-1"
     ]
 }
