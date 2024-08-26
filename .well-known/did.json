@@ -7,15 +7,15 @@
     "authentication": [
         "did:web:sayali-chavan96.github.io#key-1"
     ],
+    "assertionMethod": [
+        "did:web:sayali-chavan96.github.io#key-1"
+    ],
     "verificationMethod": [
         {
             "id": "did:web:sayali-chavan96.github.io#key-1",
             "type": "Ed25519VerificationKey2018",
             "controller": "did:web:sayali-chavan96.github.io",
-            "publicKeyBase58": "EP8Q1MDi2mTjTCaQcrvzt9WLSahAsWkhGmnXT6niNP9X"
+            "publicKeyBase58": "BKjvgEhYpMpBzqfVXiFHXiJCkvrPaE4N8jge4kyQutm8"
         }
-    ],
-    "assertionMethod": [
-        "did:web:sayali-chavan96.github.io#key-1"
     ]
 }
